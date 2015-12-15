@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="FoodCollector/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext">
+  <file original="FoodCollector/Base.lproj/LaunchScreen.xib" source-language="en"  target-language="he-il" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
@@ -11,7 +11,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="FoodCollector/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext">
+  <file original="FoodCollector/Base.lproj/Main.storyboard" source-language="en"  target-language="he-il" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
@@ -262,7 +262,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="FoodCollector/Info.plist" source-language="en" datatype="plaintext">
+  <file original="FoodCollector/Info.plist" source-language="en"  target-language="he-il" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
@@ -278,7 +278,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="FoodCollector/Localizable.strings" source-language="en" datatype="plaintext">
+  <file original="FoodCollector/Localizable.strings" source-language="en"  target-language="he-il" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
@@ -654,7 +654,7 @@ What would you like to share?</source>
       </trans-unit>
     </body>
   </file>
-  <file original="FoodCollectorTests/Info.plist" source-language="en" datatype="plaintext">
+  <file original="FoodCollectorTests/Info.plist" source-language="en"  target-language="he-il" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
