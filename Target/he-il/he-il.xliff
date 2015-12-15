@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="FoodCollector/Base.lproj/LaunchScreen.xib" source-language="en"  target-language="he-il" datatype="plaintext">
+  <file original="FoodCollector/Base.lproj/LaunchScreen.xib" source-language="en" target-language="he-il" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
@@ -8,10 +8,10 @@
       <trans-unit id="8ie-xW-0ye.text">
         <source>Copyright (c) 2015 FooDoNet. All rights reserved.</source>
         <note>Class = "UILabel"; text = "Copyright (c) 2015 FooDoNet. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
-      </trans-unit>
+      <target>Copyright (c) 2015 FooDoNet. All rights reserved.</target></trans-unit>
     </body>
   </file>
-  <file original="FoodCollector/Base.lproj/Main.storyboard" source-language="en"  target-language="he-il" datatype="plaintext">
+  <file original="FoodCollector/Base.lproj/Main.storyboard" source-language="en" target-language="he-il" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
@@ -19,266 +19,266 @@
       <trans-unit id="0PR-vp-DHe.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "0PR-vp-DHe";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="1Ad-Py-LgI.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "1Ad-Py-LgI";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="2Oa-A1-9fz.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "2Oa-A1-9fz";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="4Fd-cF-kDE.normalTitle">
         <source>There’s More to Pickup</source>
         <note>Class = "UIButton"; normalTitle = "There’s More to Pickup"; ObjectID = "4Fd-cF-kDE";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="4wf-Vp-s3T.text">
         <source>User Reports</source>
         <note>Class = "UILabel"; text = "User Reports"; ObjectID = "4wf-Vp-s3T";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="5OQ-bl-l9O.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "5OQ-bl-l9O";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="6XJ-iz-WDg.normalTitle">
         <source>Took All</source>
         <note>Class = "UIButton"; normalTitle = "Took All"; ObjectID = "6XJ-iz-WDg";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="6de-z3-7Uw.normalTitle">
         <source>Cool</source>
         <note>Class = "UIButton"; normalTitle = "Cool"; ObjectID = "6de-z3-7Uw";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="6h8-2b-WKd.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "6h8-2b-WKd";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="7JS-sO-3EK.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "7JS-sO-3EK";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="8aT-Bo-4ND.text">
         <source>Description</source>
         <note>Class = "UILabel"; text = "Description"; ObjectID = "8aT-Bo-4ND";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="045-DL-8ac.text">
         <source>FOODONET</source>
         <note>Class = "UILabel"; text = "FOODONET"; ObjectID = "045-DL-8ac";</note>
-      </trans-unit>
+      <target>FOODONET</target></trans-unit>
       <trans-unit id="B0i-6h-JMO.text">
         <source>Build</source>
         <note>Class = "UILabel"; text = "Build"; ObjectID = "B0i-6h-JMO";</note>
-      </trans-unit>
+      <target>Build</target></trans-unit>
       <trans-unit id="BTK-vj-Jbf.text">
         <source>Send Message</source>
         <note>Class = "UILabel"; text = "Send Message"; ObjectID = "BTK-vj-Jbf";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Cq5-xF-fVk.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "Cq5-xF-fVk";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="EOB-cn-hbH.text">
         <source>No Phone Number</source>
         <note>Class = "UILabel"; text = "No Phone Number"; ObjectID = "EOB-cn-hbH";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="FIq-wO-Qb8.title">
         <source>About</source>
         <note>Class = "UITabBarItem"; title = "About"; ObjectID = "FIq-wO-Qb8";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="FjY-js-UK8.text">
         <source>New Event</source>
         <note>Class = "UILabel"; text = "New Event"; ObjectID = "FjY-js-UK8";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Gwh-pG-GQl.text">
         <source>25</source>
         <note>Class = "UILabel"; text = "25"; ObjectID = "Gwh-pG-GQl";</note>
-      </trans-unit>
+      <target>25</target></trans-unit>
       <trans-unit id="Hf6-tK-AE0.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "Hf6-tK-AE0";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="IOL-GY-9os.title">
         <source>Activity Center</source>
         <note>Class = "UITableViewController"; title = "Activity Center"; ObjectID = "IOL-GY-9os";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="J8w-tF-wCB.title">
         <source>Pickup</source>
         <note>Class = "UITabBarItem"; title = "Pickup"; ObjectID = "J8w-tF-wCB";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Kmr-Qw-WMT.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "Kmr-Qw-WMT";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="NtA-nJ-dYr.title">
         <source>Welcome</source>
         <note>Class = "UINavigationItem"; title = "Welcome"; ObjectID = "NtA-nJ-dYr";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="TFN-ax-w6M.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "TFN-ax-w6M";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="TWY-aL-RAk.normalTitle">
         <source>Show Details</source>
         <note>Class = "UIButton"; normalTitle = "Show Details"; ObjectID = "TWY-aL-RAk";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="UAw-2m-dNE.text">
         <source>1111</source>
         <note>Class = "UILabel"; text = "1111"; ObjectID = "UAw-2m-dNE";</note>
-      </trans-unit>
+      <target>1111</target></trans-unit>
       <trans-unit id="UOt-CZ-JFf.text">
         <source>1111</source>
         <note>Class = "UILabel"; text = "1111"; ObjectID = "UOt-CZ-JFf";</note>
-      </trans-unit>
+      <target>1111</target></trans-unit>
       <trans-unit id="V26-sE-fum.title">
         <source>Collect</source>
         <note>Class = "UINavigationController"; title = "Collect"; ObjectID = "V26-sE-fum";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="X9g-Fl-nzX.title">
         <source>Reports</source>
         <note>Class = "UINavigationItem"; title = "Reports"; ObjectID = "X9g-Fl-nzX";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="XNA-Lc-Zrd.normalTitle">
         <source>Nothing Left</source>
         <note>Class = "UIButton"; normalTitle = "Nothing Left"; ObjectID = "XNA-Lc-Zrd";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Z5c-Yd-PoJ.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "Z5c-Yd-PoJ";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="ZBd-en-G6k.title">
         <source>Cancel</source>
         <note>Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "ZBd-en-G6k";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="am5-cN-1Jh.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "am5-cN-1Jh";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="aup-wQ-Bfq.normalTitle">
         <source>Pickup Food</source>
         <note>Class = "UIButton"; normalTitle = "Pickup Food"; ObjectID = "aup-wQ-Bfq";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="bAZ-p9-2DG.text">
         <source>en route</source>
         <note>Class = "UILabel"; text = "en route"; ObjectID = "bAZ-p9-2DG";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="bjZ-lv-Ao0.title">
         <source>My Shares</source>
         <note>Class = "UINavigationItem"; title = "My Shares"; ObjectID = "bjZ-lv-Ao0";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="eQz-g4-Jns.title">
         <source>About</source>
         <note>Class = "UIViewController"; title = "About"; ObjectID = "eQz-g4-Jns";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="fgF-vw-aeu.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "fgF-vw-aeu";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="fqk-Lk-drl.title">
         <source>Back</source>
         <note>Class = "UIBarButtonItem"; title = "Back"; ObjectID = "fqk-Lk-drl";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="hdu-mN-4y2.title">
         <source>Adress Selector</source>
         <note>Class = "UIViewController"; title = "Adress Selector"; ObjectID = "hdu-mN-4y2";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="ho0-XI-XhJ.title">
         <source>Share</source>
         <note>Class = "UITabBarItem"; title = "Share"; ObjectID = "ho0-XI-XhJ";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="j6R-pC-6PM.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "j6R-pC-6PM";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="j9e-1d-Zhx.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "j9e-1d-Zhx";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="jbA-n8-YuS.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "jbA-n8-YuS";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="lWx-p4-UgB.title">
         <source>Done</source>
         <note>Class = "UIBarButtonItem"; title = "Done"; ObjectID = "lWx-p4-UgB";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="lrb-w8-fSW.text">
         <source>Call</source>
         <note>Class = "UILabel"; text = "Call"; ObjectID = "lrb-w8-fSW";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="og0-dB-9oW.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "og0-dB-9oW";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="qFD-ld-5vp.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "qFD-ld-5vp";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
       <trans-unit id="qaa-G1-Puy.title">
         <source>My Shares</source>
         <note>Class = "UIViewController"; title = "My Shares"; ObjectID = "qaa-G1-Puy";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="rKp-0f-acV.text">
         <source>Version</source>
         <note>Class = "UILabel"; text = "Version"; ObjectID = "rKp-0f-acV";</note>
-      </trans-unit>
+      <target>Version</target></trans-unit>
       <trans-unit id="sXY-DR-x5V.text">
         <source>Kaplan 14, Tel Aviv, Israel</source>
         <note>Class = "UILabel"; text = "Kaplan 14, Tel Aviv, Israel"; ObjectID = "sXY-DR-x5V";</note>
-      </trans-unit>
+      <target>Kaplan 14, Tel Aviv, Israel</target></trans-unit>
       <trans-unit id="spz-xB-01E.normalTitle">
         <source>Share Food</source>
         <note>Class = "UIButton"; normalTitle = "Share Food"; ObjectID = "spz-xB-01E";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="t1S-mK-RBz.title">
         <source>Not Now</source>
         <note>Class = "UIBarButtonItem"; title = "Not Now"; ObjectID = "t1S-mK-RBz";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="tFN-0g-Una.title">
         <source>Activity Center</source>
         <note>Class = "UINavigationItem"; title = "Activity Center"; ObjectID = "tFN-0g-Una";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="ulr-E7-krT.placeholder">
         <source>Type address or select an earlier search</source>
         <note>Class = "UISearchBar"; placeholder = "Type address or select an earlier search"; ObjectID = "ulr-E7-krT";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="v1R-1J-UAm.title">
         <source>Cancel</source>
         <note>Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "v1R-1J-UAm";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="vXZ-lx-hvc.title">
         <source>Collect</source>
         <note>Class = "UIViewController"; title = "Collect"; ObjectID = "vXZ-lx-hvc";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="x0y-g5-7hP.text">
         <source>What would you like to do?</source>
         <note>Class = "UILabel"; text = "What would you like to do?"; ObjectID = "x0y-g5-7hP";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="yCW-nD-O9I.title">
         <source>Welcome</source>
         <note>Class = "UIViewController"; title = "Welcome"; ObjectID = "yCW-nD-O9I";</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="ze6-Vf-li4.text">
         <source>Label</source>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "ze6-Vf-li4";</note>
-      </trans-unit>
+      <target>Label</target></trans-unit>
     </body>
   </file>
-  <file original="FoodCollector/Info.plist" source-language="en"  target-language="he-il" datatype="plaintext">
+  <file original="FoodCollector/Info.plist" source-language="en" target-language="he-il" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>FDN Dev</source>
-      </trans-unit>
+      <target>FDN Dev</target></trans-unit>
       <trans-unit id="CFBundleName">
         <source>dev.$(PRODUCT_NAME)</source>
-      </trans-unit>
+      <target>dev.$(PRODUCT_NAME)</target></trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>1.0.8</source>
-      </trans-unit>
+      <target>1.0.8</target></trans-unit>
     </body>
   </file>
-  <file original="FoodCollector/Localizable.strings" source-language="en"  target-language="he-il" datatype="plaintext">
+  <file original="FoodCollector/Localizable.strings" source-language="en" target-language="he-il" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
@@ -286,388 +286,388 @@
       <trans-unit id="%@ km away">
         <source>%@ km away</source>
         <note>Distance from location of sharing. the first place holder is a number, the second placeholder is the distance unit, e.g: '55 km away'</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Active">
         <source>Active</source>
         <note>Search bar scope button titles</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Active %@">
         <source>Active %@</source>
         <note>The publication is active untill this date, e.g: 'Active 23/11/2015'</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Activity Center">
         <source>Activity Center</source>
         <note>Activity center navigation bar title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Add a picture">
         <source>Add a picture</source>
         <note>Add image for a new event</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Additional details">
         <source>Additional details</source>
         <note>Add subitle for a new event</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="All fields are required">
         <source>All fields are required</source>
         <note>Alert message body</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="An error accord">
         <source>An error accord</source>
         <note>An error accord</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Another user is en route to pickup:">
         <source>Another user is en route to pickup:</source>
         <note>new registration banner title text</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Apple Maps">
         <source>Apple Maps</source>
         <note>navigation button in action sheet meening apple maps navigation</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Are you sure?">
         <source>Are you sure?</source>
         <note>Alert message body
    Delete confirmation message for an alert controller
    End publication confirmation message for an alert controller</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Back">
         <source>Back</source>
         <note>Title for a navigation button</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Call collector:">
         <source>Call collector:</source>
         <note>Title for a list of people registered to this event</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Call publisher">
         <source>Call publisher</source>
         <note>alert call to publisher button title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Camera">
         <source>Camera</source>
         <note>camera button title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <note>Title for an alert button</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Closest">
         <source>Closest</source>
         <note>Search bar scope button titles</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Communication Issue">
         <source>Communication Issue</source>
         <note>Alert title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Confirm Event Ended">
         <source>Confirm Event Ended</source>
         <note>End publication confirmation title for an alert controller</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Cool">
         <source>Cool</source>
         <note>alert dissmiss button title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Current location">
         <source>Current location</source>
         <note>the string for current location table row</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Delete">
         <source>Delete</source>
         <note>Publisher top right menu item</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Delete Event?">
         <source>Delete Event?</source>
         <note>Delete confirmation title for an alert controller</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Details">
         <source>Details</source>
         <note>action button title show details</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <note>Title for an alert button</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Edit">
         <source>Edit</source>
         <note>Publisher top right menu item</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Ended">
         <source>Ended</source>
         <note>the puclication has ended (it is off the air)</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Ends">
         <source>Ends</source>
         <note>Search bar scope button titles</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Ends:">
         <source>Ends:</source>
         <note>a label title meaning: will finish on date</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Event Ended Near You">
         <source>Event Ended Near You</source>
         <note>A message that informs the user that a publication ended
    Title for a notification</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Event location">
         <source>Event location</source>
         <note>Add address for a new event</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Events Near You">
         <source>Events Near You</source>
         <note>Nav Bar title - the events near you</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Hi,\nWhat would you like to share?">
         <source>Hi,
 What would you like to share?</source>
         <note>No user created publications message</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="I want to pickup %@">
         <source>I want to pickup %@</source>
         <note>SMS message body: I want to pickup 'Publication name'</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Inactive">
         <source>Inactive</source>
         <note>the publication is not active beacause it was taken off air</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Incorrect phone number">
         <source>Incorrect phone number</source>
         <note>Message alert when phone number pattern is incorrect</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="It seems the phone number is incorrect. Please check you have typed it correctly.">
         <source>It seems the phone number is incorrect. Please check you have typed it correctly.</source>
         <note>Alert message body</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Last searches">
         <source>Last searches</source>
         <note>the section header title for last searches history list</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Library">
         <source>Library</source>
         <note>photo library button title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Message delivery failed">
         <source>Message delivery failed</source>
         <note>Alert title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="My Pickups">
         <source>My Pickups</source>
         <note>Activity center table view collector section title. This is a list of publications that I'm as a collector registered to pickup</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="My Shares">
         <source>My Shares</source>
         <note>Activity center table view publisher section title. This is a list of publications that I've created as a contributer.</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Name">
         <source>Name</source>
         <note>Alert text field label: Name</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Navigate with:">
         <source>Navigate with:</source>
         <note>an action sheet title meening chose app to navigate with</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="New Event Near you">
         <source>New Event Near you</source>
         <note>Title of the message banner meaning that a new event has started nearby</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="New Event Update">
         <source>New Event Update</source>
         <note>Title for a notification</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="No">
         <source>No</source>
         <note>Title for an alert button</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="No Name">
         <source>No Name</source>
         <note>Display 'No Name' when there's no collector name</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="No collectors were selected">
         <source>No collectors were selected</source>
         <note>Alert message title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="No one is registered for this pickup">
         <source>No one is registered for this pickup</source>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="No reports">
         <source>No reports</source>
         <note>the title in the table view cell displayed when a publication has no reports</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Not Now">
         <source>Not Now</source>
         <note>Navigation bar button title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Nothing left">
         <source>Nothing left</source>
         <note>The title of a user report which means that he found nothing</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
         <note>Title for an alert button</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Off Air">
         <source>Off Air</source>
         <note>Search bar scope button titles</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="On Air">
         <source>On Air</source>
         <note>Search bar scope button titles</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Oops...">
         <source>Oops...</source>
         <note>Title for an alert message</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Options">
         <source>Options</source>
         <note>Report title for a button</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Phone number">
         <source>Phone number</source>
         <note>Alert text field label: Phone number</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Pickup">
         <source>Pickup</source>
         <note>Collector home page navigation bar title
    Collector map title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Pickup ends:">
         <source>Pickup ends:</source>
         <note>Add end date for a new event</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Pickup starts:">
         <source>Pickup starts:</source>
         <note>Add start date for a new event</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Please fill in details to join this pickup">
         <source>Please fill in details to join this pickup</source>
         <note>Alert message body</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Please report only after you have visited the event's location">
         <source>Please report only after you have visited the event's location</source>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Recent">
         <source>Recent</source>
         <note>Search bar scope button titles</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Register">
         <source>Register</source>
         <note>Alert button title: Register</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Register for Pickup">
         <source>Register for Pickup</source>
         <note>Alert title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Remove Event">
         <source>Remove Event</source>
         <note>action button title take off air</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Report">
         <source>Report</source>
         <note>Report title for a button</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
         <note>Search bar placeholder text</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Select Address">
         <source>Select Address</source>
         <note>the editor title for enter a publication address</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Select All">
         <source>Select All</source>
         <note>Choose all collectors</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Selected picture">
         <source>Selected picture</source>
         <note>This is the image you have selected label</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Send Message">
         <source>Send Message</source>
         <note>Send a message to a colllector</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Show Event">
         <source>Show Event</source>
         <note>Alert show event button title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Started:">
         <source>Started:</source>
         <note>a label title meaning: publication start at date and time</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Stop Event">
         <source>Stop Event</source>
         <note>Publisher top right menu item</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="There are no legit phone numbers">
         <source>There are no legit phone numbers</source>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="There’s more to pickup">
         <source>There’s more to pickup</source>
         <note>The title of a user report which means that there is more food to pickup</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Took all">
         <source>Took all</source>
         <note>The title of a user report which means that he took all the food</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Try again">
         <source>Try again</source>
         <note>Alert message body</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Try again?">
         <source>Try again?</source>
         <note>Alert message body</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="User">
         <source>User</source>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="User Reports">
         <source>User Reports</source>
         <note>Publication details reports title</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="User’s Coming To Pickup">
         <source>User’s Coming To Pickup</source>
         <note>fetched data notification text: Another user is en route to pickup:</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Waze">
         <source>Waze</source>
         <note>navigation button in action sheet meening waze navigation</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="What are you sharing?">
         <source>What are you sharing?</source>
         <note>Add title for a new event</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="What's your phone number?">
         <source>What's your phone number?</source>
         <note>Add phone number for a new event</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="Yes">
         <source>Yes</source>
         <note>Title for an alert button</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="You are far from the event's location">
         <source>You are far from the event's location</source>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="You have arrived to: %@">
         <source>You have arrived to: %@</source>
         <note>location notification body: You have arrived to...</note>
-      </trans-unit>
+      <target></target></trans-unit>
     </body>
   </file>
-  <file original="FoodCollectorTests/Info.plist" source-language="en"  target-language="he-il" datatype="plaintext">
+  <file original="FoodCollectorTests/Info.plist" source-language="en" target-language="he-il" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>Foodonet Dev</source>
-      </trans-unit>
+      <target>Foodonet Dev</target></trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
-      </trans-unit>
+      <target>$(PRODUCT_NAME)</target></trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>1.0</source>
-      </trans-unit>
+      <target>1.0</target></trans-unit>
     </body>
   </file>
 </xliff>
