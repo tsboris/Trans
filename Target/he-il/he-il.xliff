@@ -1,673 +1,832 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="FoodCollector/Base.lproj/LaunchScreen.xib" source-language="en" target-language="he-il" datatype="plaintext">
+  <file original="FoodCollector/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
     <body>
       <trans-unit id="8ie-xW-0ye.text">
         <source>Copyright (c) 2015 FooDoNet. All rights reserved.</source>
+        <target>Copyright (c) 2015 FooDoNet. All rights reserved.</target>
         <note>Class = "UILabel"; text = "Copyright (c) 2015 FooDoNet. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
-      <target>Copyright (c) 2015 FooDoNet. All rights reserved.</target></trans-unit>
+      </trans-unit>
     </body>
   </file>
-  <file original="FoodCollector/Base.lproj/Main.storyboard" source-language="en" target-language="he-il" datatype="plaintext">
+  <file original="FoodCollector/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
     <body>
       <trans-unit id="0PR-vp-DHe.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "0PR-vp-DHe";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="1Ad-Py-LgI.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "1Ad-Py-LgI";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="2Oa-A1-9fz.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "2Oa-A1-9fz";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="4Fd-cF-kDE.normalTitle">
         <source>There’s More to Pickup</source>
+        <target>נשאר עוד</target>
         <note>Class = "UIButton"; normalTitle = "There’s More to Pickup"; ObjectID = "4Fd-cF-kDE";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="4wf-Vp-s3T.text">
         <source>User Reports</source>
+        <target>דיווחי משתמשים</target>
         <note>Class = "UILabel"; text = "User Reports"; ObjectID = "4wf-Vp-s3T";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="5OQ-bl-l9O.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "5OQ-bl-l9O";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="6XJ-iz-WDg.normalTitle">
         <source>Took All</source>
+        <target>אספתי הכל</target>
         <note>Class = "UIButton"; normalTitle = "Took All"; ObjectID = "6XJ-iz-WDg";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="6de-z3-7Uw.normalTitle">
         <source>Cool</source>
+        <target>אחלה</target>
         <note>Class = "UIButton"; normalTitle = "Cool"; ObjectID = "6de-z3-7Uw";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="6h8-2b-WKd.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "6h8-2b-WKd";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="7JS-sO-3EK.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "7JS-sO-3EK";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="8aT-Bo-4ND.text">
         <source>Description</source>
+        <target>תיאור</target>
         <note>Class = "UILabel"; text = "Description"; ObjectID = "8aT-Bo-4ND";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="045-DL-8ac.text">
         <source>FOODONET</source>
+        <target>FOODONET</target>
         <note>Class = "UILabel"; text = "FOODONET"; ObjectID = "045-DL-8ac";</note>
-      <target>FOODONET</target></trans-unit>
+      </trans-unit>
       <trans-unit id="B0i-6h-JMO.text">
         <source>Build</source>
+        <target>Build</target>
         <note>Class = "UILabel"; text = "Build"; ObjectID = "B0i-6h-JMO";</note>
-      <target>Build</target></trans-unit>
+      </trans-unit>
       <trans-unit id="BTK-vj-Jbf.text">
         <source>Send Message</source>
+        <target>שלחיחת הודעה</target>
         <note>Class = "UILabel"; text = "Send Message"; ObjectID = "BTK-vj-Jbf";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Cq5-xF-fVk.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "Cq5-xF-fVk";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="EOB-cn-hbH.text">
         <source>No Phone Number</source>
+        <target>האוסף לא השאיר מספר טלפון</target>
         <note>Class = "UILabel"; text = "No Phone Number"; ObjectID = "EOB-cn-hbH";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="FIq-wO-Qb8.title">
         <source>About</source>
+        <target>אודות</target>
         <note>Class = "UITabBarItem"; title = "About"; ObjectID = "FIq-wO-Qb8";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="FjY-js-UK8.text">
         <source>New Event</source>
+        <target>אירוע חדש</target>
         <note>Class = "UILabel"; text = "New Event"; ObjectID = "FjY-js-UK8";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Gwh-pG-GQl.text">
         <source>25</source>
+        <target>25</target>
         <note>Class = "UILabel"; text = "25"; ObjectID = "Gwh-pG-GQl";</note>
-      <target>25</target></trans-unit>
+      </trans-unit>
       <trans-unit id="Hf6-tK-AE0.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "Hf6-tK-AE0";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="IOL-GY-9os.title">
         <source>Activity Center</source>
+        <target>מרכז הפעילות</target>
         <note>Class = "UITableViewController"; title = "Activity Center"; ObjectID = "IOL-GY-9os";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="J8w-tF-wCB.title">
         <source>Pickup</source>
+        <target>איסוף</target>
         <note>Class = "UITabBarItem"; title = "Pickup"; ObjectID = "J8w-tF-wCB";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Kmr-Qw-WMT.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "Kmr-Qw-WMT";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="NtA-nJ-dYr.title">
         <source>Welcome</source>
+        <target>ברוכים הבאים</target>
         <note>Class = "UINavigationItem"; title = "Welcome"; ObjectID = "NtA-nJ-dYr";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="TFN-ax-w6M.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "TFN-ax-w6M";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="TWY-aL-RAk.normalTitle">
         <source>Show Details</source>
+        <target>הצגת פרטים</target>
         <note>Class = "UIButton"; normalTitle = "Show Details"; ObjectID = "TWY-aL-RAk";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="UAw-2m-dNE.text">
         <source>1111</source>
+        <target>1111</target>
         <note>Class = "UILabel"; text = "1111"; ObjectID = "UAw-2m-dNE";</note>
-      <target>1111</target></trans-unit>
+      </trans-unit>
       <trans-unit id="UOt-CZ-JFf.text">
         <source>1111</source>
+        <target>1111</target>
         <note>Class = "UILabel"; text = "1111"; ObjectID = "UOt-CZ-JFf";</note>
-      <target>1111</target></trans-unit>
+      </trans-unit>
       <trans-unit id="V26-sE-fum.title">
         <source>Collect</source>
+        <target>Collect</target>
         <note>Class = "UINavigationController"; title = "Collect"; ObjectID = "V26-sE-fum";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="X9g-Fl-nzX.title">
         <source>Reports</source>
+        <target>דיווחים</target>
         <note>Class = "UINavigationItem"; title = "Reports"; ObjectID = "X9g-Fl-nzX";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="XNA-Lc-Zrd.normalTitle">
         <source>Nothing Left</source>
+        <target>לא מצאתי כלום</target>
         <note>Class = "UIButton"; normalTitle = "Nothing Left"; ObjectID = "XNA-Lc-Zrd";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Z5c-Yd-PoJ.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "Z5c-Yd-PoJ";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="ZBd-en-G6k.title">
         <source>Cancel</source>
+        <target>ביטול</target>
         <note>Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "ZBd-en-G6k";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="am5-cN-1Jh.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "am5-cN-1Jh";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="aup-wQ-Bfq.normalTitle">
         <source>Pickup Food</source>
+        <target>לאסוף מזון</target>
         <note>Class = "UIButton"; normalTitle = "Pickup Food"; ObjectID = "aup-wQ-Bfq";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="bAZ-p9-2DG.text">
         <source>en route</source>
+        <target>בדרך</target>
         <note>Class = "UILabel"; text = "en route"; ObjectID = "bAZ-p9-2DG";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="bjZ-lv-Ao0.title">
         <source>My Shares</source>
+        <target>השיתופים שלי</target>
         <note>Class = "UINavigationItem"; title = "My Shares"; ObjectID = "bjZ-lv-Ao0";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="eQz-g4-Jns.title">
         <source>About</source>
+        <target>אודות</target>
         <note>Class = "UIViewController"; title = "About"; ObjectID = "eQz-g4-Jns";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="fgF-vw-aeu.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "fgF-vw-aeu";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="fqk-Lk-drl.title">
         <source>Back</source>
+        <target>חזרה</target>
         <note>Class = "UIBarButtonItem"; title = "Back"; ObjectID = "fqk-Lk-drl";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="hdu-mN-4y2.title">
         <source>Adress Selector</source>
+        <target>Adress Selector</target>
         <note>Class = "UIViewController"; title = "Adress Selector"; ObjectID = "hdu-mN-4y2";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="ho0-XI-XhJ.title">
         <source>Share</source>
+        <target>שיתוף</target>
         <note>Class = "UITabBarItem"; title = "Share"; ObjectID = "ho0-XI-XhJ";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="j6R-pC-6PM.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "j6R-pC-6PM";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="j9e-1d-Zhx.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "j9e-1d-Zhx";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="jbA-n8-YuS.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "jbA-n8-YuS";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="lWx-p4-UgB.title">
         <source>Done</source>
+        <target>בוצע</target>
         <note>Class = "UIBarButtonItem"; title = "Done"; ObjectID = "lWx-p4-UgB";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="lrb-w8-fSW.text">
         <source>Call</source>
+        <target>התקשר</target>
         <note>Class = "UILabel"; text = "Call"; ObjectID = "lrb-w8-fSW";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="og0-dB-9oW.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "og0-dB-9oW";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="qFD-ld-5vp.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "qFD-ld-5vp";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
       <trans-unit id="qaa-G1-Puy.title">
         <source>My Shares</source>
+        <target>השיתופים שלי</target>
         <note>Class = "UIViewController"; title = "My Shares"; ObjectID = "qaa-G1-Puy";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="rKp-0f-acV.text">
         <source>Version</source>
+        <target>Version</target>
         <note>Class = "UILabel"; text = "Version"; ObjectID = "rKp-0f-acV";</note>
-      <target>Version</target></trans-unit>
+      </trans-unit>
       <trans-unit id="sXY-DR-x5V.text">
         <source>Kaplan 14, Tel Aviv, Israel</source>
+        <target>Kaplan 14, Tel Aviv, Israel</target>
         <note>Class = "UILabel"; text = "Kaplan 14, Tel Aviv, Israel"; ObjectID = "sXY-DR-x5V";</note>
-      <target>Kaplan 14, Tel Aviv, Israel</target></trans-unit>
+      </trans-unit>
       <trans-unit id="spz-xB-01E.normalTitle">
         <source>Share Food</source>
+        <target>לשתף מזון</target>
         <note>Class = "UIButton"; normalTitle = "Share Food"; ObjectID = "spz-xB-01E";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="t1S-mK-RBz.title">
         <source>Not Now</source>
+        <target>לא עכשיו</target>
         <note>Class = "UIBarButtonItem"; title = "Not Now"; ObjectID = "t1S-mK-RBz";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="tFN-0g-Una.title">
         <source>Activity Center</source>
+        <target>מרכז הפעילות</target>
         <note>Class = "UINavigationItem"; title = "Activity Center"; ObjectID = "tFN-0g-Una";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="ulr-E7-krT.placeholder">
         <source>Type address or select an earlier search</source>
+        <target>הקלידו כתובת או ביחרו חיפוש קודם</target>
         <note>Class = "UISearchBar"; placeholder = "Type address or select an earlier search"; ObjectID = "ulr-E7-krT";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="v1R-1J-UAm.title">
         <source>Cancel</source>
+        <target>ביטול</target>
         <note>Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "v1R-1J-UAm";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="vXZ-lx-hvc.title">
         <source>Collect</source>
+        <target>Collect</target>
         <note>Class = "UIViewController"; title = "Collect"; ObjectID = "vXZ-lx-hvc";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="x0y-g5-7hP.text">
         <source>What would you like to do?</source>
+        <target>מה תרצו לעשות?</target>
         <note>Class = "UILabel"; text = "What would you like to do?"; ObjectID = "x0y-g5-7hP";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="yCW-nD-O9I.title">
         <source>Welcome</source>
+        <target>ברוכים הבאים</target>
         <note>Class = "UIViewController"; title = "Welcome"; ObjectID = "yCW-nD-O9I";</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="ze6-Vf-li4.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "ze6-Vf-li4";</note>
-      <target>Label</target></trans-unit>
+      </trans-unit>
     </body>
   </file>
-  <file original="FoodCollector/Info.plist" source-language="en" target-language="he-il" datatype="plaintext">
+  <file original="FoodCollector/Info.plist" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>FDN Dev</source>
-      <target>FDN Dev</target></trans-unit>
+        <target>FDN Dev</target>
+      </trans-unit>
       <trans-unit id="CFBundleName">
         <source>dev.$(PRODUCT_NAME)</source>
-      <target>dev.$(PRODUCT_NAME)</target></trans-unit>
+        <target>dev.$(PRODUCT_NAME)</target>
+      </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>1.0.8</source>
-      <target>1.0.8</target></trans-unit>
+        <target>1.0.8</target>
+      </trans-unit>
     </body>
   </file>
-  <file original="FoodCollector/Localizable.strings" source-language="en" target-language="he-il" datatype="plaintext">
+  <file original="FoodCollector/Localizable.strings" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
     <body>
       <trans-unit id="%@ km away">
         <source>%@ km away</source>
+        <target>%@ ק״מ ממקומך</target>
         <note>Distance from location of sharing. the first place holder is a number, the second placeholder is the distance unit, e.g: '55 km away'</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Active">
         <source>Active</source>
+        <target>פעילים</target>
         <note>Search bar scope button titles</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Active %@">
         <source>Active %@</source>
+        <target>פעיל</target>
         <note>The publication is active untill this date, e.g: 'Active 23/11/2015'</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Activity Center">
         <source>Activity Center</source>
+        <target>מרכז הפעילות</target>
         <note>Activity center navigation bar title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Add a picture">
         <source>Add a picture</source>
+        <target>הוספת תמונה</target>
         <note>Add image for a new event</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Additional details">
         <source>Additional details</source>
+        <target>פרטים נוספים</target>
         <note>Add subitle for a new event</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="All fields are required">
         <source>All fields are required</source>
+        <target>חובה למלא את כל השדות</target>
         <note>Alert message body</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="An error accord">
         <source>An error accord</source>
+        <target>אירע שגיאה</target>
         <note>An error accord</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Another user is en route to pickup:">
         <source>Another user is en route to pickup:</source>
+        <target>משתמש נוסף בדרך לאסוף:</target>
         <note>new registration banner title text</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Apple Maps">
         <source>Apple Maps</source>
+        <target>Apple Maps</target>
         <note>navigation button in action sheet meening apple maps navigation</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Are you sure?">
         <source>Are you sure?</source>
+        <target>האם אתם בטוחים?</target>
         <note>Alert message body
    Delete confirmation message for an alert controller
    End publication confirmation message for an alert controller</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Back">
         <source>Back</source>
+        <target>חזרה</target>
         <note>Title for a navigation button</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Call collector:">
         <source>Call collector:</source>
+        <target>התקשר לאוסף:</target>
         <note>Title for a list of people registered to this event</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Call publisher">
         <source>Call publisher</source>
+        <target>התקשר למשתף</target>
         <note>alert call to publisher button title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Camera">
         <source>Camera</source>
+        <target>מצלמה</target>
         <note>camera button title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
+        <target>ביטול</target>
         <note>Title for an alert button</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Closest">
         <source>Closest</source>
+        <target>קרובים</target>
         <note>Search bar scope button titles</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Communication Issue">
         <source>Communication Issue</source>
+        <target>יש בעיית תקשורת</target>
         <note>Alert title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Confirm Event Ended">
         <source>Confirm Event Ended</source>
+        <target>אישור הפסקת פרסום אירוע</target>
         <note>End publication confirmation title for an alert controller</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Cool">
         <source>Cool</source>
+        <target>אחלה</target>
         <note>alert dissmiss button title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Current location">
         <source>Current location</source>
+        <target>מיקום נוכחי</target>
         <note>the string for current location table row</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Delete">
         <source>Delete</source>
+        <target>מחיקה</target>
         <note>Publisher top right menu item</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Delete Event?">
         <source>Delete Event?</source>
+        <target>למחוק אירוע?</target>
         <note>Delete confirmation title for an alert controller</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Details">
         <source>Details</source>
+        <target>פרטים</target>
         <note>action button title show details</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>בוצע</target>
         <note>Title for an alert button</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Edit">
         <source>Edit</source>
+        <target>עריכה</target>
         <note>Publisher top right menu item</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Ended">
         <source>Ended</source>
+        <target>הסתיים</target>
         <note>the puclication has ended (it is off the air)</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Ends">
         <source>Ends</source>
+        <target>מסתיים</target>
         <note>Search bar scope button titles</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Ends:">
         <source>Ends:</source>
+        <target>מסתיים:</target>
         <note>a label title meaning: will finish on date</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Event Ended Near You">
         <source>Event Ended Near You</source>
+        <target>ארוע הסתיים באזורך</target>
         <note>A message that informs the user that a publication ended
    Title for a notification</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Event location">
         <source>Event location</source>
+        <target>מאיפה לאסוף?</target>
         <note>Add address for a new event</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Events Near You">
         <source>Events Near You</source>
+        <target>אירועים בקירבתך</target>
         <note>Nav Bar title - the events near you</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Hi,\nWhat would you like to share?">
         <source>Hi,
 What would you like to share?</source>
+        <target>הי, מה תרצו לשתף?</target>
         <note>No user created publications message</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="I want to pickup %@">
         <source>I want to pickup %@</source>
+        <target>רוצה לבוא לאסוף %@</target>
         <note>SMS message body: I want to pickup 'Publication name'</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Inactive">
         <source>Inactive</source>
+        <target>לא פעיל</target>
         <note>the publication is not active beacause it was taken off air</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Incorrect phone number">
         <source>Incorrect phone number</source>
+        <target>מספר הטלפון לא חוקי</target>
         <note>Message alert when phone number pattern is incorrect</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="It seems the phone number is incorrect. Please check you have typed it correctly.">
         <source>It seems the phone number is incorrect. Please check you have typed it correctly.</source>
+        <target>נראה שמספר הטלפון לא תקין. אנא בידקו שהקלדתם נכון.</target>
         <note>Alert message body</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Last searches">
         <source>Last searches</source>
+        <target>חיפושים אחרונים</target>
         <note>the section header title for last searches history list</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Library">
         <source>Library</source>
+        <target>גלריה</target>
         <note>photo library button title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Message delivery failed">
         <source>Message delivery failed</source>
+        <target>שליחת ההודעה נכשלה</target>
         <note>Alert title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="My Pickups">
         <source>My Pickups</source>
+        <target>בדרך לאסוף</target>
         <note>Activity center table view collector section title. This is a list of publications that I'm as a collector registered to pickup</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="My Shares">
         <source>My Shares</source>
+        <target>השיתופים שלי</target>
         <note>Activity center table view publisher section title. This is a list of publications that I've created as a contributer.</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Name">
         <source>Name</source>
+        <target>שם</target>
         <note>Alert text field label: Name</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Navigate with:">
         <source>Navigate with:</source>
+        <target>נווט בעזרת:</target>
         <note>an action sheet title meening chose app to navigate with</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="New Event Near you">
         <source>New Event Near you</source>
+        <target>שיתוף חדש בקירבתך</target>
         <note>Title of the message banner meaning that a new event has started nearby</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="New Event Update">
         <source>New Event Update</source>
+        <target>התקבל דיווח חדש עבור</target>
         <note>Title for a notification</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="No">
         <source>No</source>
+        <target>לא</target>
         <note>Title for an alert button</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="No Name">
         <source>No Name</source>
+        <target>ללא שם</target>
         <note>Display 'No Name' when there's no collector name</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="No collectors were selected">
         <source>No collectors were selected</source>
+        <target>לא נבחרו אוספים</target>
         <note>Alert message title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="No one is registered for this pickup">
         <source>No one is registered for this pickup</source>
+        <target>אין משתמשים בדרך לאסוף</target>
         <note>No comment provided by engineer.</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="No reports">
         <source>No reports</source>
+        <target>אין דיווחים</target>
         <note>the title in the table view cell displayed when a publication has no reports</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Not Now">
         <source>Not Now</source>
+        <target>לא עכשיו</target>
         <note>Navigation bar button title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Nothing left">
         <source>Nothing left</source>
+        <target>לא מצאתי כלום</target>
         <note>The title of a user report which means that he found nothing</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
+        <target>אישור</target>
         <note>Title for an alert button</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Off Air">
         <source>Off Air</source>
+        <target>לא פעיל</target>
         <note>Search bar scope button titles</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="On Air">
         <source>On Air</source>
+        <target>פעיל</target>
         <note>Search bar scope button titles</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Oops...">
         <source>Oops...</source>
+        <target>אופס...</target>
         <note>Title for an alert message</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Options">
         <source>Options</source>
+        <target>אפשרויות</target>
         <note>Report title for a button</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Phone number">
         <source>Phone number</source>
+        <target>מספר טלפון</target>
         <note>Alert text field label: Phone number</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Pickup">
         <source>Pickup</source>
+        <target>איסוף</target>
         <note>Collector home page navigation bar title
    Collector map title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Pickup ends:">
         <source>Pickup ends:</source>
+        <target>ועד-</target>
         <note>Add end date for a new event</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Pickup starts:">
         <source>Pickup starts:</source>
+        <target>אפשר לאסוף החל מ-</target>
         <note>Add start date for a new event</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Please fill in details to join this pickup">
         <source>Please fill in details to join this pickup</source>
+        <target>יש למלא פרטי התקשרות כדי להצטרף לאיסוף</target>
         <note>Alert message body</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Please report only after you have visited the event's location">
         <source>Please report only after you have visited the event's location</source>
+        <target>אנא דווחו רק אחרי שהייתם במקום</target>
         <note>No comment provided by engineer.</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Recent">
         <source>Recent</source>
+        <target>אחרונים</target>
         <note>Search bar scope button titles</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Register">
         <source>Register</source>
+        <target>הרשמה</target>
         <note>Alert button title: Register</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Register for Pickup">
         <source>Register for Pickup</source>
+        <target>רישום לאיסוף</target>
         <note>Alert title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Remove Event">
         <source>Remove Event</source>
+        <target>אישור הפסקת פרסום אירוע</target>
         <note>action button title take off air</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Report">
         <source>Report</source>
+        <target>דווח</target>
         <note>Report title for a button</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
+        <target>חיפוש</target>
         <note>Search bar placeholder text</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Select Address">
         <source>Select Address</source>
+        <target>הוספת כתובת</target>
         <note>the editor title for enter a publication address</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Select All">
         <source>Select All</source>
+        <target>בחר הכל</target>
         <note>Choose all collectors</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Selected picture">
         <source>Selected picture</source>
+        <target>זו התמונה שנבחרה</target>
         <note>This is the image you have selected label</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Send Message">
         <source>Send Message</source>
+        <target>שליחת הודעה</target>
         <note>Send a message to a colllector</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Show Event">
         <source>Show Event</source>
+        <target>הצגת אירוע</target>
         <note>Alert show event button title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Started:">
         <source>Started:</source>
+        <target>התחלה:</target>
         <note>a label title meaning: publication start at date and time</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Stop Event">
         <source>Stop Event</source>
+        <target>הפסקת שיתוף</target>
         <note>Publisher top right menu item</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="There are no legit phone numbers">
         <source>There are no legit phone numbers</source>
+        <target>אין מספרי טלפון חוקיים</target>
         <note>No comment provided by engineer.</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="There’s more to pickup">
         <source>There’s more to pickup</source>
+        <target>נשאר עוד</target>
         <note>The title of a user report which means that there is more food to pickup</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Took all">
         <source>Took all</source>
+        <target>אספתי הכל</target>
         <note>The title of a user report which means that he took all the food</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Try again">
         <source>Try again</source>
+        <target>נסו שוב</target>
         <note>Alert message body</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Try again?">
         <source>Try again?</source>
+        <target>לנסות שוב?</target>
         <note>Alert message body</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="User">
         <source>User</source>
+        <target>משתמש</target>
         <note>No comment provided by engineer.</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="User Reports">
         <source>User Reports</source>
+        <target>דיווחי משתמשים</target>
         <note>Publication details reports title</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="User’s Coming To Pickup">
         <source>User’s Coming To Pickup</source>
+        <target>משתמש נוסף בדרך לאסוף</target>
         <note>fetched data notification text: Another user is en route to pickup:</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Waze">
         <source>Waze</source>
+        <target>Waze</target>
         <note>navigation button in action sheet meening waze navigation</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="What are you sharing?">
         <source>What are you sharing?</source>
+        <target>מה תרצה לשתף?</target>
         <note>Add title for a new event</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="What's your phone number?">
         <source>What's your phone number?</source>
+        <target>מה מספר הטלפון?</target>
         <note>Add phone number for a new event</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="Yes">
         <source>Yes</source>
+        <target>כן</target>
         <note>Title for an alert button</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="You are far from the event's location">
         <source>You are far from the event's location</source>
+        <target>אתם רחוקים ממקום הפרסום</target>
         <note>No comment provided by engineer.</note>
-      <target></target></trans-unit>
+      </trans-unit>
       <trans-unit id="You have arrived to: %@">
         <source>You have arrived to: %@</source>
+        <target>הגעת ל: %@</target>
         <note>location notification body: You have arrived to...</note>
-      <target></target></trans-unit>
+      </trans-unit>
     </body>
   </file>
-  <file original="FoodCollectorTests/Info.plist" source-language="en" target-language="he-il" datatype="plaintext">
+  <file original="FoodCollectorTests/Info.plist" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>Foodonet Dev</source>
-      <target>Foodonet Dev</target></trans-unit>
+        <target>Foodonet Dev</target>
+      </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
-      <target>$(PRODUCT_NAME)</target></trans-unit>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>1.0</source>
-      <target>1.0</target></trans-unit>
+        <target>1.0</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
