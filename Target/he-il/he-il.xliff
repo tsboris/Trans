@@ -1,5 +1,97 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="FoodCollector/Base.lproj/FCActivityCenterTVSectionHeader.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="Rs4-0y-2GW.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Rs4-0y-2GW";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodCollector/Base.lproj/FCPublicationsTVCMessageView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="5IJ-F3-g04.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "5IJ-F3-g04";</note>
+      </trans-unit>
+      <trans-unit id="bXm-5k-wCp.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "bXm-5k-wCp";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodCollector/Base.lproj/FCPublishAddressEditorAddressHistoryCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="8cF-9F-VqL.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "8cF-9F-VqL";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodCollector/Base.lproj/FCPublishAddressEditorAddressHistoryCustomHeaderView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="yiO-IL-vCM.text">
+        <source>Prevues Searches</source>
+        <target>חיפושים אחרונים</target>
+        <note>Class = "UILabel"; text = "Prevues Searches"; ObjectID = "yiO-IL-vCM";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodCollector/Base.lproj/FCPublishAddressEditorMyLocationCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="okz-8U-Qoa.text">
+        <source>Current location</source>
+        <target>מיקום נוכחי</target>
+        <note>Class = "UILabel"; text = "Current location"; ObjectID = "okz-8U-Qoa";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodCollector/Base.lproj/FetchedDataNotificationView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="ECp-AW-bDE.normalTitle">
+        <source>Cool</source>
+        <target>אחלה</target>
+        <note>Class = "UIButton"; normalTitle = "Cool"; ObjectID = "ECp-AW-bDE";</note>
+      </trans-unit>
+      <trans-unit id="Uai-CI-TPO.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Uai-CI-TPO";</note>
+      </trans-unit>
+      <trans-unit id="b8k-VU-qr9.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "b8k-VU-qr9";</note>
+      </trans-unit>
+      <trans-unit id="qHt-Qp-RFf.normalTitle">
+        <source>Show Details</source>
+        <target>הצגת פרטים</target>
+        <note>Class = "UIButton"; normalTitle = "Show Details"; ObjectID = "qHt-Qp-RFf";</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="FoodCollector/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
@@ -84,7 +176,7 @@
       </trans-unit>
       <trans-unit id="BTK-vj-Jbf.text">
         <source>Send Message</source>
-        <target>שלחיחת הודעה</target>
+        <target>שליחת הודעה</target>
         <note>Class = "UILabel"; text = "Send Message"; ObjectID = "BTK-vj-Jbf";</note>
       </trans-unit>
       <trans-unit id="Cq5-xF-fVk.text">
@@ -324,6 +416,151 @@
       </trans-unit>
     </body>
   </file>
+  <file original="FoodCollector/Base.lproj/NewRegistrationBannerView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="5ZS-0k-lZL.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "5ZS-0k-lZL";</note>
+      </trans-unit>
+      <trans-unit id="x66-XD-RGl.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "x66-XD-RGl";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodCollector/Base.lproj/NewReportMessageView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="QY9-Fb-u4C.normalTitle">
+        <source>Remove Event</source>
+        <target>הסרת פרסום</target>
+        <note>Class = "UIButton"; normalTitle = "Remove Event"; ObjectID = "QY9-Fb-u4C";</note>
+      </trans-unit>
+      <trans-unit id="hOC-iL-5zf.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "hOC-iL-5zf";</note>
+      </trans-unit>
+      <trans-unit id="nZj-b5-lMC.normalTitle">
+        <source>Cool</source>
+        <target>אחלה</target>
+        <note>Class = "UIButton"; normalTitle = "Cool"; ObjectID = "nZj-b5-lMC";</note>
+      </trans-unit>
+      <trans-unit id="oHm-1q-uWK.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "oHm-1q-uWK";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodCollector/Base.lproj/PublicationDetsilsCollectorActionsHeaderView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body/>
+  </file>
+  <file original="FoodCollector/Base.lproj/PublicationDetsilsPublisherActionsHeaderView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body/>
+  </file>
+  <file original="FoodCollector/Base.lproj/PublicationEditorTVCContactPublisherCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="8cF-9F-VqL.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "8cF-9F-VqL";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodCollector/Base.lproj/PublicationEditorTVCDatePickerCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body/>
+  </file>
+  <file original="FoodCollector/Base.lproj/PublicationEditorTVCImageCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body/>
+  </file>
+  <file original="FoodCollector/Base.lproj/PublicationEditorTVCMoreInfoCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body/>
+  </file>
+  <file original="FoodCollector/Base.lproj/PublicationEditorTVCOnlyLabelCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="8cF-9F-VqL.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "8cF-9F-VqL";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodCollector/Base.lproj/PublicationEditorTVCPhoneNumEditorCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="IMh-CF-HQE.placeholder">
+        <source>What's your phone number?</source>
+        <target>מה מספר הטלפון?</target>
+        <note>Class = "UITextField"; placeholder = "What's your phone number?"; ObjectID = "IMh-CF-HQE";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodCollector/Base.lproj/PublicationEditorTVCStartEndDateCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="5FF-2X-AjN.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "5FF-2X-AjN";</note>
+      </trans-unit>
+      <trans-unit id="8cF-9F-VqL.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "8cF-9F-VqL";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodCollector/Base.lproj/PublicationEditorTVCTextFieldCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body/>
+  </file>
+  <file original="FoodCollector/Base.lproj/PublicationOptionsMenuItemCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="5ci-SD-1CB.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "5ci-SD-1CB";</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="FoodCollector/Info.plist" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
@@ -514,7 +751,7 @@
       <trans-unit id="Hi,\nWhat would you like to share?">
         <source>Hi,
 What would you like to share?</source>
-        <target>הי, מה תרצו לשתף?</target>
+        <target>הי,מה תרצו לשתף?</target>
         <note>No user created publications message</note>
       </trans-unit>
       <trans-unit id="I want to pickup %@">
@@ -690,7 +927,7 @@ What would you like to share?</source>
       </trans-unit>
       <trans-unit id="Remove Event">
         <source>Remove Event</source>
-        <target>אישור הפסקת פרסום אירוע</target>
+        <target>הסרת פרסום</target>
         <note>action button title take off air</note>
       </trans-unit>
       <trans-unit id="Report">
