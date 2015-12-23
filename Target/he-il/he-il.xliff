@@ -184,10 +184,16 @@
         <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "Cq5-xF-fVk";</note>
       </trans-unit>
+      <trans-unit id="D9e-pN-89Q.title">
+        <source>Event Details</source>
+        <note>Class = "UITableViewController"; title = "Event Details"; ObjectID = "D9e-pN-89Q";</note>
+        <target>פרטי שיתוף</target>
+      </trans-unit>
       <trans-unit id="DtI-jc-HPg.text">
         <source>Feedback</source>
+        <target>משוב</target>
         <note>Class = "UILabel"; text = "Feedback"; ObjectID = "DtI-jc-HPg";</note>
-      <target>משוב</target></trans-unit>
+      </trans-unit>
       <trans-unit id="EOB-cn-hbH.text">
         <source>No Phone Number</source>
         <target>האוסף לא השאיר מספר טלפון</target>
@@ -205,8 +211,9 @@
       </trans-unit>
       <trans-unit id="GpR-lN-AMc.normalTitle">
         <source>Cancel</source>
+        <target>ביטול</target>
         <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "GpR-lN-AMc";</note>
-      <target>ביטול</target></trans-unit>
+      </trans-unit>
       <trans-unit id="Gwh-pG-GQl.text">
         <source>25</source>
         <target>25</target>
@@ -342,10 +349,6 @@
         <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "jbA-n8-YuS";</note>
       </trans-unit>
-      <trans-unit id="kZO-X6-Trl.text">
-        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
-        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "kZO-X6-Trl";</note>
-      <target></target></trans-unit>
       <trans-unit id="lWx-p4-UgB.title">
         <source>Done</source>
         <target>בוצע</target>
@@ -358,8 +361,9 @@
       </trans-unit>
       <trans-unit id="mSz-8f-fLS.normalTitle">
         <source>Send</source>
+        <target>שליחה</target>
         <note>Class = "UIButton"; normalTitle = "Send"; ObjectID = "mSz-8f-fLS";</note>
-      <target>שליחה</target></trans-unit>
+      </trans-unit>
       <trans-unit id="og0-dB-9oW.text">
         <source>Label</source>
         <target>Label</target>
@@ -608,13 +612,9 @@
       </trans-unit>
       <trans-unit id="Active">
         <source>Active</source>
-        <target>פעילים</target>
-        <note>Search bar scope button titles</note>
-      </trans-unit>
-      <trans-unit id="Active %@">
-        <source>Active %@</source>
         <target>פעיל</target>
-        <note>The publication is active untill this date, e.g: 'Active 23/11/2015'</note>
+        <note>Search bar scope button titles
+   The publication is active</note>
       </trans-unit>
       <trans-unit id="Activity Center">
         <source>Activity Center</source>
@@ -778,7 +778,7 @@ What would you like to share?</source>
       <trans-unit id="Inactive">
         <source>Inactive</source>
         <target>לא פעיל</target>
-        <note>the publication is not active beacause it was taken off air</note>
+        <note>The publication is not active</note>
       </trans-unit>
       <trans-unit id="Incorrect phone number">
         <source>Incorrect phone number</source>
@@ -807,12 +807,14 @@ What would you like to share?</source>
       </trans-unit>
       <trans-unit id="My pickups">
         <source>My pickups</source>
+        <target>בדרך לאסוף</target>
         <note>Activity center table section title. This is a list of publications that I'm as a collector registered to pickup</note>
-      <target>בדרך לאסוף</target></trans-unit>
+      </trans-unit>
       <trans-unit id="My shares">
         <source>My shares</source>
+        <target>השיתופים שלי</target>
         <note>Activity center table section title. This is a list of publications that I've created as a contributer.</note>
-      <target>השיתופים שלי</target></trans-unit>
+      </trans-unit>
       <trans-unit id="Name">
         <source>Name</source>
         <target>שם</target>
@@ -941,7 +943,7 @@ What would you like to share?</source>
       </trans-unit>
       <trans-unit id="Remove Event">
         <source>Remove Event</source>
-        <target>הסרת פרסום</target>
+        <target>הסרת שיתוף</target>
         <note>action button title take off air</note>
       </trans-unit>
       <trans-unit id="Report">
@@ -971,8 +973,9 @@ What would you like to share?</source>
       </trans-unit>
       <trans-unit id="Send Feedback">
         <source>Send Feedback</source>
+        <target>שליחת משוב</target>
         <note>Activity center button title.</note>
-      <target>שליחת משוב</target></trans-unit>
+      </trans-unit>
       <trans-unit id="Send Message">
         <source>Send Message</source>
         <target>שליחת הודעה</target>
@@ -980,8 +983,9 @@ What would you like to share?</source>
       </trans-unit>
       <trans-unit id="Share your thoughts or anything else">
         <source>Share your thoughts or anything else</source>
+        <target>שתפו אותנו במחשבות, הצעות או כל דבר אחר</target>
         <note>Feedback text place holder</note>
-      <target>שתפו אותנו במחשבות, הצעות או כל דבר אחר</target></trans-unit>
+      </trans-unit>
       <trans-unit id="Show Event">
         <source>Show Event</source>
         <target>הצגת אירוע</target>
