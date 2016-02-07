@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="FoodCollector/Base.lproj/FCActivityCenterTVSectionHeader.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="Rs4-0y-2GW.text">
@@ -14,7 +14,7 @@
   </file>
   <file original="FoodCollector/Base.lproj/FCPublicationsTVCMessageView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="5IJ-F3-g04.text">
@@ -31,7 +31,7 @@
   </file>
   <file original="FoodCollector/Base.lproj/FCPublishAddressEditorAddressHistoryCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="8cF-9F-VqL.text">
@@ -43,7 +43,7 @@
   </file>
   <file original="FoodCollector/Base.lproj/FCPublishAddressEditorAddressHistoryCustomHeaderView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="yiO-IL-vCM.text">
@@ -55,7 +55,7 @@
   </file>
   <file original="FoodCollector/Base.lproj/FCPublishAddressEditorMyLocationCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="okz-8U-Qoa.text">
@@ -67,7 +67,7 @@
   </file>
   <file original="FoodCollector/Base.lproj/FetchedDataNotificationView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="ECp-AW-bDE.normalTitle">
@@ -94,7 +94,7 @@
   </file>
   <file original="FoodCollector/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="8ie-xW-0ye.text">
@@ -104,9 +104,86 @@
       </trans-unit>
     </body>
   </file>
+  <file original="FoodCollector/Base.lproj/Login.storyboard" source-language="en" datatype="plaintext" target-language="he-IL">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+    </header>
+    <body>
+      <trans-unit id="0QM-sm-Zzm.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "0QM-sm-Zzm";</note>
+      </trans-unit>
+      <trans-unit id="3EE-Tz-mV3.placeholder">
+        <source>Phone</source>
+        <target>טלפון</target>
+        <note>Class = "UITextField"; placeholder = "Phone"; ObjectID = "3EE-Tz-mV3";</note>
+      </trans-unit>
+      <trans-unit id="4dY-Jp-n6A.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "4dY-Jp-n6A";</note>
+      </trans-unit>
+      <trans-unit id="C3i-Ho-WWH.text">
+        <source>Last step to start</source>
+        <target>שלב אחרון להתחלה</target>
+        <note>Class = "UILabel"; text = "Last step to start"; ObjectID = "C3i-Ho-WWH";</note>
+      </trans-unit>
+      <trans-unit id="FW7-kE-C9u.title">
+        <source>Phone Number</source>
+        <target>מספר טלפון</target>
+        <note>Class = "UINavigationItem"; title = "Phone Number"; ObjectID = "FW7-kE-C9u";</note>
+      </trans-unit>
+      <trans-unit id="LZn-e1-m8L.text">
+        <source>Sharing food changing society</source>
+        <target>Sharing food changing society</target>
+        <note>Class = "UILabel"; text = "Sharing food changing society"; ObjectID = "LZn-e1-m8L";</note>
+      </trans-unit>
+      <trans-unit id="RxJ-SW-BD5.text">
+        <source>—  Sign in with  —</source>
+        <target>—  הכנס בעזרת  —</target>
+        <note>Class = "UILabel"; text = "—  Sign in with  —"; ObjectID = "RxJ-SW-BD5";</note>
+      </trans-unit>
+      <trans-unit id="W74-CB-TCi.text">
+        <source>Welcome to Foodonet</source>
+        <target>ברוכים הבאים ל- Foodonet</target>
+        <note>Class = "UILabel"; text = "Welcome to Foodonet"; ObjectID = "W74-CB-TCi";</note>
+      </trans-unit>
+      <trans-unit id="Y7J-IC-nLf.text">
+        <source>Ready to get started?</source>
+        <target>מוכנים להתחיל?</target>
+        <note>Class = "UILabel"; text = "Ready to get started?"; ObjectID = "Y7J-IC-nLf";</note>
+      </trans-unit>
+      <trans-unit id="afR-fK-UnF.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "afR-fK-UnF";</note>
+      </trans-unit>
+      <trans-unit id="cGH-Xx-5Hk.title">
+        <source>Login</source>
+        <target>התחברות</target>
+        <note>Class = "UINavigationItem"; title = "Login"; ObjectID = "cGH-Xx-5Hk";</note>
+      </trans-unit>
+      <trans-unit id="glP-XC-z6n.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "glP-XC-z6n";</note>
+      </trans-unit>
+      <trans-unit id="nCf-kt-4rD.text">
+        <source>Required for creating groups and finding friends. Your number is confidential and we will never expose it.</source>
+        <target>נדרש עבור יצירת קבוצות ואיתור חברים. המספר שלך סודי ואנו לעולם לא נחשוף אותו.</target>
+        <note>Class = "UITextView"; text = "Required for creating groups and finding friends. Your number is confidential and we will never expose it."; ObjectID = "nCf-kt-4rD";</note>
+      </trans-unit>
+      <trans-unit id="t1q-kn-co8.text">
+        <source>User's Alias Name</source>
+        <target>User's Alias Name</target>
+        <note>Class = "UILabel"; text = "User's Alias Name"; ObjectID = "t1q-kn-co8";</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="FoodCollector/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="0PR-vp-DHe.text">
@@ -186,8 +263,9 @@
       </trans-unit>
       <trans-unit id="D9e-pN-89Q.title">
         <source>Event Details</source>
+        <target>פרטי שיתוף</target>
         <note>Class = "UITableViewController"; title = "Event Details"; ObjectID = "D9e-pN-89Q";</note>
-      <target>פרטי שיתוף</target></trans-unit>
+      </trans-unit>
       <trans-unit id="DtI-jc-HPg.text">
         <source>Feedback</source>
         <target>משוב</target>
@@ -437,7 +515,7 @@
   </file>
   <file original="FoodCollector/Base.lproj/NewRegistrationBannerView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="5ZS-0k-lZL.text">
@@ -454,7 +532,7 @@
   </file>
   <file original="FoodCollector/Base.lproj/NewReportMessageView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="QY9-Fb-u4C.normalTitle">
@@ -481,19 +559,19 @@
   </file>
   <file original="FoodCollector/Base.lproj/PublicationDetsilsCollectorActionsHeaderView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body/>
   </file>
   <file original="FoodCollector/Base.lproj/PublicationDetsilsPublisherActionsHeaderView.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body/>
   </file>
   <file original="FoodCollector/Base.lproj/PublicationEditorTVCContactPublisherCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="8cF-9F-VqL.text">
@@ -505,25 +583,25 @@
   </file>
   <file original="FoodCollector/Base.lproj/PublicationEditorTVCDatePickerCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body/>
   </file>
   <file original="FoodCollector/Base.lproj/PublicationEditorTVCImageCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body/>
   </file>
   <file original="FoodCollector/Base.lproj/PublicationEditorTVCMoreInfoCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body/>
   </file>
   <file original="FoodCollector/Base.lproj/PublicationEditorTVCOnlyLabelCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="8cF-9F-VqL.text">
@@ -535,7 +613,7 @@
   </file>
   <file original="FoodCollector/Base.lproj/PublicationEditorTVCPhoneNumEditorCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="IMh-CF-HQE.placeholder">
@@ -547,7 +625,7 @@
   </file>
   <file original="FoodCollector/Base.lproj/PublicationEditorTVCStartEndDateCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="5FF-2X-AjN.text">
@@ -564,13 +642,13 @@
   </file>
   <file original="FoodCollector/Base.lproj/PublicationEditorTVCTextFieldCustomCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body/>
   </file>
   <file original="FoodCollector/Base.lproj/PublicationOptionsMenuItemCell.xib" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="5ci-SD-1CB.text">
@@ -582,7 +660,7 @@
   </file>
   <file original="FoodCollector/Info.plist" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -601,7 +679,7 @@
   </file>
   <file original="FoodCollector/Localizable.strings" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="%@ km away">
@@ -635,10 +713,10 @@
         <target>חובה למלא את כל השדות</target>
         <note>Alert message body</note>
       </trans-unit>
-      <trans-unit id="An error accord">
-        <source>An error accord</source>
+      <trans-unit id="An error occurred">
+        <source>An error occurred</source>
         <target>אירע שגיאה</target>
-        <note>An error accord</note>
+        <note>An error occurred</note>
       </trans-unit>
       <trans-unit id="Another user is en route to pickup:">
         <source>Another user is en route to pickup:</source>
@@ -1074,7 +1152,7 @@ What would you like to share?</source>
   </file>
   <file original="FoodCollectorTests/Info.plist" source-language="en" datatype="plaintext" target-language="he-IL">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
