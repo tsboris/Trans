@@ -134,6 +134,11 @@
         <target>מספר טלפון</target>
         <note>Class = "UINavigationItem"; title = "Phone Number"; ObjectID = "FW7-kE-C9u";</note>
       </trans-unit>
+      <trans-unit id="FzY-7R-UwU.normalTitle">
+        <source>Continue without Registration</source>
+        <target>המשך ללא רישום</target>
+        <note>Class = "UIButton"; normalTitle = "Continue without Registration"; ObjectID = "FzY-7R-UwU";</note>
+      </trans-unit>
       <trans-unit id="LZn-e1-m8L.text">
         <source>Sharing food changing society</source>
         <target>Sharing food changing society</target>
@@ -143,6 +148,11 @@
         <source>—  Sign in with  —</source>
         <target>—  הכנס בעזרת  —</target>
         <note>Class = "UILabel"; text = "—  Sign in with  —"; ObjectID = "RxJ-SW-BD5";</note>
+      </trans-unit>
+      <trans-unit id="VRI-d3-Rba.normalTitle">
+        <source>Continue without Registration</source>
+        <target>המשך ללא רישום</target>
+        <note>Class = "UIButton"; normalTitle = "Continue without Registration"; ObjectID = "VRI-d3-Rba";</note>
       </trans-unit>
       <trans-unit id="W74-CB-TCi.text">
         <source>Welcome to Foodonet</source>
@@ -155,9 +165,9 @@
         <note>Class = "UILabel"; text = "Ready to get started?"; ObjectID = "Y7J-IC-nLf";</note>
       </trans-unit>
       <trans-unit id="afR-fK-UnF.normalTitle">
-        <source>Button</source>
-        <target>Button</target>
-        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "afR-fK-UnF";</note>
+        <source>Start sharing</source>
+        <target>התחילו לשתף</target>
+        <note>Class = "UIButton"; normalTitle = "Start sharing"; ObjectID = "afR-fK-UnF";</note>
       </trans-unit>
       <trans-unit id="cGH-Xx-5Hk.title">
         <source>Login</source>
@@ -774,6 +784,11 @@
         <source>Confirm Event Ended</source>
         <target>אישור הפסקת פרסום אירוע</target>
         <note>End publication confirmation title for an alert controller</note>
+      </trans-unit>
+      <trans-unit id="Continue without Registration">
+        <source>Continue without Registration</source>
+        <target>המשך ללא רישום</target>
+        <note>Title for a skip sign-in button</note>
       </trans-unit>
       <trans-unit id="Cool">
         <source>Cool</source>
