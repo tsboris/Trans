@@ -180,9 +180,9 @@
         <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "glP-XC-z6n";</note>
       </trans-unit>
       <trans-unit id="nCf-kt-4rD.text">
-        <source>Required for creating groups and finding friends. Your number is confidential and we will never expose it.</source>
-        <target>נדרש עבור יצירת קבוצות ואיתור חברים. המספר שלך סודי ואנו לעולם לא נחשוף אותו.</target>
-        <note>Class = "UITextView"; text = "Required for creating groups and finding friends. Your number is confidential and we will never expose it."; ObjectID = "nCf-kt-4rD";</note>
+        <source>Place holder Text. Place holder Text. Place holder Text. Place holder Text. Place holder Text. Place holder Text.</source>
+        <target>Place holder Text. Place holder Text. Place holder Text. Place holder Text. Place holder Text. Place holder Text.</target>
+        <note>Class = "UITextView"; text = "Place holder Text. Place holder Text. Place holder Text. Place holder Text. Place holder Text. Place holder Text."; ObjectID = "nCf-kt-4rD";</note>
       </trans-unit>
       <trans-unit id="t1q-kn-co8.text">
         <source>User's Alias Name</source>
@@ -1042,6 +1042,11 @@ What would you like to share?</source>
         <source>Report</source>
         <target>דווח</target>
         <note>Report title for a button</note>
+      </trans-unit>
+      <trans-unit id="Required for creating groups and finding friends. Your number is confidential and we will never expose it.">
+        <source>Required for creating groups and finding friends. Your number is confidential and we will never expose it.</source>
+        <target>נדרש עבור יצירת קבוצות ואיתור חברים. המספר שלך סודי ואנו לעולם לא נחשוף אותו.</target>
+        <note>A small pop up information message that informs the user why we ask for his phone number</note>
       </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
